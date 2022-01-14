@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![EDM115's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDM115&count_private=true&show_icons=true&theme=merko&cache_seconds=1800)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko)
 
 <!--
 **EDM115/EDM115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
