@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![EDM115's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDM115&count_private=true&show_icons=true&cache_seconds=1800&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&border_color=000&text_color=009494)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=009494)
+![EDM115's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDM115&count_private=true&show_icons=true&cache_seconds=1800&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)
 
 <!-- e96443,904e95     0ff1ce -->
 <!--
