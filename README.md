@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/EDM115.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EDM115?tab=followers)  
 ![Profile views](https://gpvc.arturio.dev/EDM115)  
   
-[![Donate](https://img.shields.io/static/v1?label=LABEL&message=MESSAGE&color=f0f0f0&style=for-the-badge&logo=ethereum)](https://edm115.ethar.xyz/)
+[![Donate](https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=f0f0f0&style=for-the-badge&logo=ethereum)](https://edm115.ethar.xyz/)
 
 <!-- e96443,904e95     0ff1ce -->
 <!--
