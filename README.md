@@ -4,7 +4,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
   
   
-<a target="_blank" href="https://edm115.ethar.xyz/"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>  
+<a href="https://edm115.ethar.xyz/" target="_blank"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>  
   
 [![GitHub followers](https://img.shields.io/github/followers/EDM115.svg?style=social&label=Follow&maxAge=3600)](https://github.com/EDM115?tab=followers)  
 ![Profile views](https://gpvc.arturio.dev/EDM115)  
