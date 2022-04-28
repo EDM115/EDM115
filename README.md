@@ -85,6 +85,7 @@
 <a href="https://www.reddit.com/user/EDM115" target="blank"><img align="center" src="https://raw.githubusercontent.com/EDM115/EDM115/main/Reddit_logo_new.svg" alt="EDM115" height="40" width="45"/></a>
 <a href="https://twitter.com/_edm115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_edm115" height="40" width="50"/></a>
 <a href="https://instagram.com/_edm1.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_edm1.15" height="40" width="50"/></a>
+<a href="mailto:dev.edm115@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev.edm115@gmail.com" height="40" width="50"/></a>
 
 ## Support me 🥺
    
