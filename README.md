@@ -81,6 +81,7 @@
 <a href="https://stackoverflow.com/users/18644204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18644204" height="40" width="50"/></a>
 <a href="https://hub.docker.com/u/edm115" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="edm115" height="40" width="50"/></a>
 <a href="https://gitlab.com/EDM115" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="EDM115" height="40" width="50"/></a>
+<a href="https://www.root-me.org/EDM115?inc=info&lang=en" target="blank"><img align="center" src="https://www.root-me.org/IMG/siteon0.svg?1574327304" alt="EDM115" height="40" width="50"/></a>
 <a href="https://app.hackthebox.com/profile/975408" target="blank"><img align="center" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="EDM115" height="40" width="50"/></a>
 <a href="https://www.reddit.com/user/EDM115" target="blank"><img align="center" src="https://raw.githubusercontent.com/EDM115/EDM115/main/Reddit_logo_new.svg" alt="EDM115" height="40" width="45"/></a>
 <a href="https://twitter.com/_edm115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_edm115" height="40" width="50"/></a>
