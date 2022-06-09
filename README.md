@@ -45,6 +45,7 @@
 <a href="https://aiohttp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/aio-libs/aiohttp/master/docs/aiohttp-plain.svg" alt="aioHTTP" width="50" height="50"/></a>
 <a href="https://motor.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/56866ac4e9d16d6b47a8a.png" alt="Motor" width="50" height="50"/></a>
 <a href="https://pillow.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/0c7e57eb1fe313fb5c166.png" alt="Pillow" width="50" height="50"/></a>
+<a href="https://pyrogram.org/" target="_blank" rel="noreferrer"><img src="https://pyrogram.org/img/pyrogram-logo.png" alt="PyroGram" width="36" height="51"/></a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three.js" width="50" height="50"/></a>
 
 ### Software
