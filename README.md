@@ -43,12 +43,14 @@
 
 ### Framework
 <a href="https://aiohttp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/aio-libs/aiohttp/master/docs/aiohttp-plain.svg" alt="aioHTTP" width="50" height="50"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Boostrap" width="50" height="50"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Boostrap" width="60" height="50"/></a>
 <a href="https://boxicons.com/" target="_blank" rel="noreferrer"><img src="https://github.com/EDM115/EDM115/raw/main/boxicons_logo.svg" alt="BoxIcons" width="50" height="50"/></a>
 <a href="https://motor.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/56866ac4e9d16d6b47a8a.png" alt="Motor" width="50" height="50"/></a>
 <a href="https://pillow.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/0c7e57eb1fe313fb5c166.png" alt="Pillow" width="50" height="50"/></a>
 <a href="https://pyrogram.org/" target="_blank" rel="noreferrer"><img src="https://pyrogram.org/img/pyrogram-logo.png" alt="PyroGram" width="36" height="51"/></a>
+<a href="https://swiperjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/EDM115/EDM115/raw/main/swiper.svg" alt="Swiper" width="50" height="50"/></a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three.js" width="50" height="50"/></a>
+<a href="https://mattboldt.com/demos/typed-js/" target="_blank" rel="noreferrer"><img src="https://github.com/mattboldt/typed.js/raw/master/logo-cropped.png" alt="typed.js" width="180" height="50"/></a>
 
 ### Software
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="50" height="50"/></a>
