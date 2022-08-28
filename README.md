@@ -100,6 +100,7 @@
    
 <a href="https://edm115.ethar.xyz/" target="_blank"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>  
 <a href="https://www.buymeacoffee.com/edm115"><img align="left" src="https://raw.githubusercontent.com/EDM115/EDM115/main/bmc-button.svg" height="50" width="210" alt="edm115"/></a>  
+<a href="https://paypal.me/8EDM115"><img align="left" src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="edm115"/></a>
 <!-- e96443,904e95     0ff1ce -->
 <!--
 - 🔭 I’m currently working on ...
