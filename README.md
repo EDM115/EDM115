@@ -1,7 +1,8 @@
 # Hey, it's-a me, EDM115 👋
 
-## Languages and Tools
-  
+<details>
+  <summary><h2>Languages and Tools</h2></summary>
+
 ### Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></a>
@@ -71,6 +72,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
 <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/></a>
 <a href="https://blogs.windows.com/blog/tag/windows-10/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows 10" width="50" height="50"/></a>
+</details>
 
 ## Some stats 🥰
 
@@ -96,11 +98,14 @@
 <a href="https://instagram.com/_edm1.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_edm1.15" height="40" width="50"/></a>
 <a href="mailto:dev@edm115.eu.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@edm115.eu.org" height="40" width="50"/></a>
 
+---
+
 ## Support me 🥺
    
 <a href="https://edm115.ethar.xyz/" target="_blank"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>  
-<a href="https://www.buymeacoffee.com/edm115"><img align="left" src="https://raw.githubusercontent.com/EDM115/EDM115/main/bmc-button.svg" height="50" width="210" alt="edm115"/></a>  
-<a href="https://paypal.me/8EDM115"><img align="left" src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="edm115"/></a>
+<a href="https://www.buymeacoffee.com/edm115"><img src="https://raw.githubusercontent.com/EDM115/EDM115/main/bmc-button.svg" height="50" width="210" alt="edm115"/></a>  
+<a href="https://paypal.me/8EDM115"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="edm115" height="80" width="200"/></a>  
+
 <!-- e96443,904e95     0ff1ce -->
 <!--
 - 🔭 I’m currently working on ...
