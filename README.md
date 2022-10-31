@@ -81,6 +81,15 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
 ![EDM115's github activity graph](https://activity-graph.herokuapp.com/graph?username=EDM115&theme=dracula)  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EDM115&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
+
+<details open>
+  <summary><a href="https://qui.ne/EDM115">qui.ne/EDM115</a> stats</summary>
+  
+<img src="https://stats.quine.sh/EDM115/gh-stats" alt="EDM115's GitHub stats" width="932px">
+<img src="https://stats.quine.sh/EDM115/language-stats" alt="EDM115's language experiences" width="818px">
+<img src="https://stats.quine.sh/EDM115/stack-overflow-stats" alt="EDM115's Stack Overflow achievements" width="330px">
+</details>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=EDM115&theme=dracula&no-bg=true&no-frame=true)  
 [![GitHub followers](https://img.shields.io/github/followers/EDM115.svg?style=social&label=Follow&maxAge=3600)](https://github.com/EDM115?tab=followers)  
 ![Profile views](https://gpvc.arturio.dev/EDM115)  
