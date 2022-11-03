@@ -96,18 +96,20 @@
   
 ## Contact me
 
-<a href="https://t.me/edm115" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="edm115" height="40" width="50"/></a>
-<a href="https://stackoverflow.com/users/18644204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18644204" height="40" width="50"/></a>
-<a href="mailto:dev@edm115.eu.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@edm115.eu.org" height="40" width="50"/></a>
-##### For the other way to contact me, [head to my website](https://edm115.eu.org) and scroll to the bottom
+<a href="https://t.me/edm115" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="edm115" height="40" width="50"/></a>
+<a href="https://stackoverflow.com/users/18644204" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18644204" height="40" width="50"/></a>
+<a href="mailto:dev@edm115.eu.org" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@edm115.eu.org" height="40" width="50"/></a>
+##### For the others way to contact me, [head to my website](https://edm115.eu.org) and scroll to the bottom
 
 ---
 
 ## Support me 🥺
    
-<a href="https://paypal.me/8EDM115"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="edm115" height="80" width="200"/></a>
-<a href="https://www.buymeacoffee.com/edm115"><img src="https://raw.githubusercontent.com/EDM115/EDM115/main/bmc-button.svg" height="50" width="210" alt="edm115"/></a>
-<a href="https://edm115.fot.one/" target="_blank"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>
+<a href="https://paypal.me/8EDM115" target="_blank"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="edm115" height="80" width="200"/></a>  
+<a href="https://www.buymeacoffee.com/edm115" target="_blank"><img src="https://raw.githubusercontent.com/EDM115/EDM115/main/bmc-button.svg" height="50" width="210" alt="edm115"/></a><br>  
+<a href="https://edm115.fot.one/" target="_blank"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>  
+<a href="https://github.com/sponsors/EDM115" target="_blank"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" alt="EDM115" height="120" width="120"/></a>  
+<a href="https://t.me/EDM115bots/170" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" alt="edm115" height="120" width="120"/></a>
 
 <!-- e96443,904e95     0ff1ce -->
 <!--
