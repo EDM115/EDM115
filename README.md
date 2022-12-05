@@ -76,7 +76,7 @@
 
 ![EDM115's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDM115&count_private=true&show_icons=true&cache_seconds=1800&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
-![EDM115's github activity graph](https://activity-graph.herokuapp.com/graph?username=EDM115&theme=dracula)  
+![EDM115's github activity graph](ttps://github-readme-activity-graph.cyclic.app/graph?username=EDM115&theme=dracula)  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EDM115&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 
 <details open>
