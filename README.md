@@ -79,13 +79,13 @@
 ![EDM115's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EDM115&theme=dracula&line=50fa7b&point=ff79c6&area_color=f1fa8c&bg_color=282a36&color=8be9fd&title_color=8be9fd&area=true&hide_border=true&radius=8)  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EDM115&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 
-<details open>
+<!--<details open>
   <summary><a href="https://qui.ne/EDM115">qui.ne/EDM115</a> stats</summary>
   
 <img src="https://stats.quine.sh/EDM115/gh-stats" alt="EDM115's GitHub stats" width="932px">
 <img src="https://stats.quine.sh/EDM115/language-stats" alt="EDM115's language experiences" width="818px">
 <img src="https://stats.quine.sh/EDM115/stack-overflow-stats" alt="EDM115's Stack Overflow achievements" width="330px">
-</details>
+</details>-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=EDM115&theme=dracula&no-bg=true&no-frame=true)  
 [![GitHub followers](https://img.shields.io/github/followers/EDM115.svg?style=social&label=Follow&maxAge=3600)](https://github.com/EDM115?tab=followers)  
