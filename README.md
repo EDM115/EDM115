@@ -61,29 +61,20 @@
 ## Some stats 🥰
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/625240117560475658?theme=dark&bg=282a36&borderRadius=30&animated=true&idleMessage=AFK,%20may%20be%20online%20anytime%20soon...%20Check%20edm115.dev&showDisplayName=true)](https://discord.com/users/625240117560475658)  
-![EDM115's GitHub stats](https://stats.edm115.dev/api?username=EDM115&count_private=true&show_icons=true&cache_seconds=1800&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
-![Most Used Languages](https://stats.edm115.dev/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
+![EDM115's GitHub stats | Reload the page if you see this :)](https://stats.edm115.dev/api?username=EDM115&count_private=true&show_icons=true&cache_seconds=1800&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
+![Most Used Languages | Reload the page if you see this :)](https://stats.edm115.dev/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
 ![EDM115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDM115&theme=dracula&line=50fa7b&point=ff79c6&area_color=f1fa8c&bg_color=282a36&color=8be9fd&title_color=8be9fd&area=true&hide_border=true&radius=8)  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=EDM115&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 
-<!--<details open>
-  <summary><a href="https://qui.ne/EDM115">qui.ne/EDM115</a> stats</summary>
-  
-<img src="https://stats.quine.sh/EDM115/gh-stats" alt="EDM115's GitHub stats" width="932px">
-<img src="https://stats.quine.sh/EDM115/language-stats" alt="EDM115's language experiences" width="818px">
-<img src="https://stats.quine.sh/EDM115/stack-overflow-stats" alt="EDM115's Stack Overflow achievements" width="330px">
-</details>-->
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=EDM115&theme=dracula&no-bg=true&no-frame=true)  
-[![GitHub followers](https://img.shields.io/github/followers/EDM115.svg?style=social&label=Follow&maxAge=3600)](https://github.com/EDM115?tab=followers)  
-<!--![Profile views](https://gpvc.arturio.dev/EDM115)-->  
+[![GitHub followers](https://img.shields.io/github/followers/EDM115.svg?style=social&label=Follow&maxAge=3600)](https://github.com/EDM115?tab=followers) 
   
 ## Contact me
 
 <a href="https://t.me/edm115" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="edm115" height="40" width="50"/></a>
 <a href="https://stackoverflow.com/users/18644204" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18644204" height="40" width="50"/></a>
 <a href="mailto:dev@edm115.eu.org" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@edm115.eu.org" height="40" width="50"/></a>
-##### For the others way to contact me, [head to my website](https://edm115.eu.org) and scroll to the bottom
+##### For the others way to contact me, [head to my website](https://edm115.dev/socials)
 
 ---
 
@@ -94,15 +85,3 @@
 <a href="https://edm115.shadd.eu.org/" target="_blank"><img alt="Donate" src="https://img.shields.io/static/v1?label=Donate&message=ETH%20and%20BTC%20accepted&color=ff8500&style=for-the-badge&logo=ethereum&cacheSeconds=3600&logoColor=362cff&labelColor=2cffa2"/></a>  
 <a href="https://github.com/sponsors/EDM115" target="_blank"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" alt="EDM115" height="100" width="100"/></a>  
 <a href="https://t.me/EDM115bots/170" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" alt="edm115" height="100" width="100"/></a>
-
-<!-- e96443,904e95     0ff1ce -->
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
